@@ -23,3 +23,5 @@ use_readme_rmd()
 build_readme()
 
 toypackage::strsplit1(x, ",")
+
+# If you have any problems with committing, use git commit --no-verify -m "Your message"
